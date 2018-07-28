@@ -19,6 +19,5 @@
         <mapping resource="pojo/PatientHousemates.hbm.xml"  />
         <mapping resource="pojo/PatientDependents.hbm.xml"  />
         
-        
     </session-factory>
 </hibernate-configuration>
